@@ -12,7 +12,7 @@ By looking at several datasets from kaggle and omdbapi from 2019 to March 2022, 
 Research Questions to Answer
 Average ratings for Netflix top 10, have they gone up? Down? Matthew/Derek
 Does Netflix prefer movies or shows? - Chang
-What ratings are more common? PG, PG-13 TV-MA, etc. - Chang/Kemly
+What ratings are more common? PG, PG-13 TV-MA, etc. - Chang
 Chart changes in genre of shows over time. Chang/Rolly
 
 Datasets to be Used
