@@ -24,7 +24,6 @@ https://www.omdbapi.com/
 
 Rough Breakdown of Tasks
 Common Task - cleaning/collecting dataset, making nice figures, analysis
-Kemly Adebisi
 Matthew Hill
 Rolly Costillas
 Derek Mast
