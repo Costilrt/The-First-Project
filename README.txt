@@ -1,4 +1,5 @@
 # Please Use this repo for the project. 
+  There is a ppt file in the main repository and csv files stored in Resources directory. 
 
 Our team has analyzed some netflix datasets to understand the production of netflix TV show and Movie in the past.
 
